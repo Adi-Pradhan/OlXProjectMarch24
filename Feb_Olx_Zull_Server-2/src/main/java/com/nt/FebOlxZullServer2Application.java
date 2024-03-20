@@ -9,6 +9,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @EnableDiscoveryClient
 @EnableZuulProxy
 public class FebOlxZullServer2Application {
+	
 
 	public static void main(String[] args) {
 		SpringApplication.run(FebOlxZullServer2Application.class, args);
