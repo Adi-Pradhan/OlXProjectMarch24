@@ -19,7 +19,7 @@ import com.nt.service.AdvertiseStatusServiceImpl;
 import com.nt.service.IAdvertiseCategory;
 
 @RestController
-@RequestMapping("/Master")
+@RequestMapping("/master")
 public class MasterDataController {
 
 	@Autowired
