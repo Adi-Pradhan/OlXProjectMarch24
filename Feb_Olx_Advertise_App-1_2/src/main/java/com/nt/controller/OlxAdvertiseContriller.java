@@ -20,7 +20,7 @@ import com.nt.feign.IUserConsummer;
 import com.nt.service.IAdvertiseService;
 
 @RestController
-@RequestMapping("/Olx")
+@RequestMapping("/olx")
 public class OlxAdvertiseContriller {
 
 	@Autowired
